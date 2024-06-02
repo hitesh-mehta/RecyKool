@@ -44,4 +44,4 @@ Recykool utilizes machine learning algorithms to predict the return price of e-w
 Contributions are welcome! If you have any ideas for improvement or would like to report a bug, please open an issue on GitHub.
 
 ## License
-This project is licensed under the Creative Commons (CC) License.
+This project is licensed under the Apache 2.0 License.
