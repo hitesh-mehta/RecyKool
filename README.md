@@ -48,6 +48,10 @@ Recykool is a user-friendly web application designed for efficient e-waste colle
 ## About the Model
 Recykool employs state-of-the-art machine learning techniques to predict the return price of e-waste items based on their specifications. The model is trained on a comprehensive dataset containing information about various e-waste items and their corresponding return prices. Additionally, Recykool utilizes the YOLOv8 object detection model to process images of e-waste items and extract relevant information accurately.
 
+
+## Demo Video
+![DemoVideo](https://youtu.be/jDfD-M1NSWg)
+
 ## Contributing
 Contributions are welcome! If you have any ideas for improvement or would like to report a bug, please open an issue on GitHub.
 
