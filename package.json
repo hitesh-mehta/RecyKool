@@ -1,0 +1,15 @@
+{
+  "name": "hackwindia",
+  "version": "1.0.0",
+  "description": "Recykool is a web-based solution for e-waste collection from the general public. It simplifies the process by allowing users to upload images of their e-waste items and receive a predicted return price by answering a few simple questions about the item's specifications such as RAM, memory, age, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shepherd.js": "^12.0.5"
+  }
+}
