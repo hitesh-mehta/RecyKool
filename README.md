@@ -50,7 +50,7 @@ Recykool employs state-of-the-art machine learning techniques to predict the ret
 
 
 ## Demo Video
-![DemoVideo](https://youtu.be/jDfD-M1NSWg)
+![DemoVideo](<iframe width="560" height="315" src="https://www.youtube.com/embed/jDfD-M1NSWg?si=wLDg42VlKFLX7K0K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improvement or would like to report a bug, please open an issue on GitHub.
