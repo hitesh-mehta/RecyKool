@@ -2,6 +2,8 @@
 
 Recykool is a user-friendly web application designed for efficient e-waste collection from the general public. This platform simplifies the process by allowing users to upload images of their e-waste items. By answering a few straightforward questions about the item's specifications such as RAM, memory, age, etc., users receive a predicted return price.
 
+![SnapShot](https://github.com/hitesh-mehta/RecyKool/blob/main/Snap.png)
+
 ## Key Features:
 1. User-Friendly Interface: Intuitive design makes it easy for users to upload e-waste images and provide necessary details.
 2. Predictive Pricing: Utilizing advanced machine learning algorithms, Recykool predicts the return price of e-waste items accurately.
